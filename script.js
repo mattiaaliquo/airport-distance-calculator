@@ -22,7 +22,7 @@ const airports = {
     "LIS": {"name": "Lisbon Portela Airport", "lat": 38.7742, "lon": -9.1342},
     "DUB": {"name": "Dublin Airport", "lat": 53.4264, "lon": -6.2499},
     "BRU": {"name": "Brussels Airport", "lat": 50.9028, "lon": 4.4956},
-   "AHO": {"name": "Alghero-Fertilia Airport", "lat": 40.6321, "lon": 8.2908},
+    "AHO": {"name": "Alghero-Fertilia Airport", "lat": 40.6321, "lon": 8.2908},
     "AOI": {"name": "Ancona Falconara Airport", "lat": 43.6164, "lon": 13.3623},
     "BRI": {"name": "Bari Karol Wojtyła Airport", "lat": 41.1376, "lon": 16.7592},
     "BGY": {"name": "Bergamo Orio al Serio International Airport", "lat": 45.6689, "lon": 9.7042},
