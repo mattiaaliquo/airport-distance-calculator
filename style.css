@@ -37,3 +37,9 @@ button:hover {
     margin-top: 20px;
     font-size: 18px;
 }
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+}
